@@ -38,6 +38,6 @@ button = Button(tk, text='추천 메뉴', command=event)
 button.pack(side = BOTTOM, padx = 10, pady = 10) #side로 배치설정, padx로 좌우 여백설정, pady로 상하 여백설정 
 # button2.pack(side=LEFT, padx=10, pady= 10)
 
-# 4. 메인루프 실행
+# 메인루프 실행
 tk.mainloop()
 
